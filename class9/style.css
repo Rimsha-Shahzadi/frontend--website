@@ -1,7 +1,42 @@
-h1{
-    background-color: aquamarine;
-    font-size: 40px;
-    font-family: "Poppins", sans-serif;
-      font-family: "TikTok Sans", sans-serif;
+/* @font-face{
+  font-family: "Classkafont";
+  src: url("./MOELA-semiBold.ttf");
 
+} */
+
+/* h1{
+    color: rgb(42, 139, 139);
+    font-size: 100px;
+    font-family: "Classkafont";
+    /* text-decoration: wavy underline red; */
+    /* font-family: "Poppins", sans-serif; */
+    /* font-family: "TikTok Sans", sans-serif; */
+
+/* }
+h1 span {
+      text-decoration: wavy underline red;
+
+} */ 
+p{
+  font-family: "Roboto";
+
+ }
+.gray {
+  background-color: gray;
+
+} 
+.underline {
+  text-decoration:underline;
+}
+.line-through {
+  text-decoration:line-through;
+}
+.red_solid_line {
+  text-decoration:solid underline line-through red;
+}
+.green_dotted_line {
+  text-decoration:dotted underline line-through green;
+}
+.blue_dashed_line{
+  text-decoration: dashed  underline line-through blue;
 }
